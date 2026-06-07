@@ -70,8 +70,8 @@ This repository is intended as a public-facing overview of the MRTWay vision and
 
 ## Documents
 
-### Strategic Infrastructure Brief
+### [Strategic Infrastructure Brief](Strategic%20Radiopharmaceutical%20Logistics%20Brief.pdf)
 A detailed overview of the MRT Pharma concept, the radiopharmaceutical logistics challenge, infrastructure considerations, and long-term vision.
 
-### Investor Presentation
+### [Investor Presentation](MRTWay_Deck.pdf)
 An overview of the MRTWay and MRT Pharma opportunity, including the problem, solution, market rationale, business model, and roadmap.
