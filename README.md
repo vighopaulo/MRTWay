@@ -63,3 +63,12 @@ Beginning with precision oncology infrastructure and radiopharmaceutical logisti
 Note
 
 This repository is intended as a public-facing overview of the MRTWay vision and venture. Proprietary technical details, patent-sensitive information, and confidential system architectures are intentionally omitted.
+
+
+## Documents
+
+### Strategic Infrastructure Brief
+A detailed overview of the MRT Pharma concept, the radiopharmaceutical logistics challenge, infrastructure considerations, and long-term vision.
+
+### Investor Presentation
+An overview of the MRTWay and MRT Pharma opportunity, including the problem, solution, market rationale, business model, and roadmap.
