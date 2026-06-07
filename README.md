@@ -1,4 +1,5 @@
 ![MRTWay Vision](image.png)
+Building the transport layer for precision oncology and future intelligent logistics networks.
 
 # MRT Pharma
 ### Infrastructure for Distributed Precision Oncology
@@ -16,6 +17,10 @@ The broader objective is to develop infrastructure that improves how critical he
 These initial applications serve as early deployment pathways for technologies that may ultimately support larger automated logistics networks capable of moving high-value materials across hospitals, cities, and metropolitan regions.
 
 Over the long term, MRT Pharma aims to contribute to a new generation of intelligent logistics infrastructure that combines automation, advanced transport technologies, and data-driven operations.
+
+## Why Now?
+
+Precision oncology is becoming increasingly distributed. While radiopharmaceutical production capacity continues to grow, the infrastructure connecting production, imaging, treatment, and disposal workflows has not kept pace. MRTWay explores infrastructure designed to address this emerging bottleneck.
 
 Initial Application Areas
 
@@ -62,6 +67,14 @@ Long-Term Innovation Thesis
 MRTWay is founded on the belief that future healthcare, industrial, and urban systems will require new infrastructure capable of moving critical materials more efficiently, safely, and intelligently.
 
 Beginning with precision oncology infrastructure and radiopharmaceutical logistics, MRTWay seeks to explore technologies that may eventually support broader automated logistics platforms connecting hospitals, cities, and metropolitan regions.
+
+## Contact
+
+Paul Osekirere Onaodowan
+
+LinkedIn:
+https://www.linkedin.com/in/paul-onaodowan
+email: paul@mrtway.com
 
 Note
 
