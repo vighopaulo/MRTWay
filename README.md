@@ -1,9 +1,9 @@
 ![MRTWay Vision](image.png)
 
-# MRTWay
+# MRTPharma
 ### Infrastructure for Distributed Precision Oncology
 
-MRTWay is a transport and logistics infrastructure concept focused on the automated movement of critical materials across healthcare, industrial, and urban environments.
+MRTPharma is a transport and logistics infrastructure concept focused on the automated movement of critical materials across healthcare, industrial, and urban environments.
 
 The initial focus is precision oncology infrastructure, beginning with radiopharmaceutical logistics and the movement of time-sensitive medical materials. These materials often require fast, reliable, traceable, and low-handling transport between production, preparation, imaging, treatment, and disposal points.
 
@@ -19,7 +19,7 @@ Over the long term, MRTWay aims to contribute to a new generation of intelligent
 
 Initial Application Areas
 
-* Radiopharmaceutical logistics
+* Radiopharmaceutical logistics with MRTPharma
 * Precision oncology infrastructure
 * Controlled-environment material handling
 * Hospital and healthcare logistics
@@ -28,7 +28,7 @@ Initial Application Areas
 
 Current Stage
 
-MRTWay is currently in the concept development, research, and venture-building stage.
+MRTWay is currently in the concept development, research, and venture-building stage with MRTPharma use case for Radiopharmaceutical logistics and Precision oncology infrastructure.
 
 Current activities include:
 
