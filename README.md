@@ -1,21 +1,21 @@
 ![MRTWay Vision](image.png)
 
-# MRTPharma
+# MRT Pharma
 ### Infrastructure for Distributed Precision Oncology
 
-MRTPharma is a transport and logistics infrastructure concept focused on the automated movement of critical materials across healthcare, industrial, and urban environments.
+MRT Pharma is a transport and logistics infrastructure concept focused on the automated movement of critical materials across healthcare, industrial, and urban environments.
 
 The initial focus is precision oncology infrastructure, beginning with radiopharmaceutical logistics and the movement of time-sensitive medical materials. These materials often require fast, reliable, traceable, and low-handling transport between production, preparation, imaging, treatment, and disposal points.
 
 Vision
 
-MRTWay explores how advanced transport architectures, automation, data-driven operations, and controlled-environment logistics can improve the movement of high-value and time-sensitive materials.
+MRT Pharma explores how advanced transport architectures, automation, data-driven operations, and controlled-environment logistics can improve the movement of high-value and time-sensitive materials.
 
 The broader objective is to develop infrastructure that improves how critical healthcare resources are transported, monitored, and delivered.
 
 These initial applications serve as early deployment pathways for technologies that may ultimately support larger automated logistics networks capable of moving high-value materials across hospitals, cities, and metropolitan regions.
 
-Over the long term, MRTWay aims to contribute to a new generation of intelligent logistics infrastructure that combines automation, advanced transport technologies, and data-driven operations.
+Over the long term, MRT Pharma aims to contribute to a new generation of intelligent logistics infrastructure that combines automation, advanced transport technologies, and data-driven operations.
 
 Initial Application Areas
 
@@ -28,7 +28,7 @@ Initial Application Areas
 
 Current Stage
 
-MRTWay is currently in the concept development, research, and venture-building stage with MRTPharma use case for Radiopharmaceutical logistics and Precision oncology infrastructure.
+MRTWay is currently in the concept development, research, and venture-building stage with MRT Pharma as a use case for Radiopharmaceutical logistics and Precision oncology infrastructure.
 
 Current activities include:
 
