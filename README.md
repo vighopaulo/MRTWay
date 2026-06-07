@@ -1,5 +1,5 @@
 ![MRTWay Vision](image.png)
-?
+
 # MRTWay
 ### Infrastructure for Distributed Precision Oncology
 
