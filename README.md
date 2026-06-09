@@ -1,10 +1,6 @@
 ![MRTWay Vision](image.png)
 
-MRTWay Vision
-
-# MRTWay
-
-### Building the transport layer for precision oncology and future intelligent logistics networks.
+**Building the transport layer for precision oncology and future intelligent logistics networks.**
 
 # MRT Pharma
 ### Infrastructure for Distributed Precision Oncology
