@@ -4,7 +4,7 @@ Building the transport layer for precision oncology and future intelligent logis
 # MRT Pharma
 ### Infrastructure for Distributed Precision Oncology
 
-MRT Pharma is a transport and logistics infrastructure concept focused on the automated movement of critical materials across healthcare, industrial, and urban environments.
+MRT Pharma is developing transport and workflow infrastructure for precision oncology, beginning with radiopharmaceutical logistics and the movement of time-sensitive medical materials across healthcare environments.
 
 The initial focus is precision oncology infrastructure, beginning with radiopharmaceutical logistics and the movement of time-sensitive medical materials. These materials often require fast, reliable, traceable, and low-handling transport between production, preparation, imaging, treatment, and disposal points.
 
@@ -20,7 +20,7 @@ Over the long term, MRT Pharma aims to contribute to a new generation of intelli
 
 ## Why Now?
 
-Precision oncology is becoming increasingly distributed. While radiopharmaceutical production capacity continues to grow, the infrastructure connecting production, imaging, treatment, and disposal workflows has not kept pace. MRTWay explores infrastructure designed to address this emerging bottleneck.
+Precision oncology and theranostics are expanding rapidly, while the infrastructure connecting radiopharmaceutical production, imaging, treatment, and disposal workflows has remained largely unchanged. MRTWay explores infrastructure designed to address this emerging bottleneck.
 
 Initial Application Areas
 
@@ -33,7 +33,7 @@ Initial Application Areas
 
 Current Stage
 
-MRTWay is currently in the concept development, research, and venture-building stage with MRT Pharma as a use case for Radiopharmaceutical logistics and Precision oncology infrastructure.
+MRTWay is currently in the concept development, intellectual property, stakeholder engagement, and prototype-planning stage, with MRT Pharma serving as the initial application in radiopharmaceutical logistics and precision oncology infrastructure.
 
 Current activities include:
 
@@ -44,9 +44,15 @@ Current activities include:
 * Intellectual property development
 * Precision oncology infrastructure research
 
+## Technology Approach
 
+MRT Pharma is being developed around the MRTWay transport architecture, an infrastructure platform designed to support the movement and coordination of shielding-sensitive and decay-sensitive radiopharmaceutical payloads.
 
-Founding Team
+The platform combines automated transport, workflow coordination, real-time tracking, and purpose-built infrastructure intended for radiopharmacy, imaging, and treatment environments. The objective is to improve traceability, reduce manual handling, support operational efficiency, and help healthcare providers manage time-sensitive radiopharmaceutical workflows more effectively.
+
+Specific technical details remain confidential and are protected through the MRTWay intellectual property strategy. MRT Pharma combines engineering, healthcare, and data analytics expertise through a founding team with experience spanning healthcare operations, pharmacy, industrial infrastructure, analytics, and startup development.
+
+## Founding Team
 
 Paul Osekirere Onaodowan
 
