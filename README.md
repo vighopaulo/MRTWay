@@ -1,49 +1,62 @@
 ![MRTWay Vision](image.png)
 
-**Building the transport layer for precision oncology and future intelligent logistics networks.**
+MRTWay Vision
 
 # MRT Pharma
-### Infrastructure for Distributed Precision Oncology
 
-MRT Pharma is developing specialized transport and workflow infrastructure for the safe, automated, and traceable movement of time-sensitive, high-value materials, beginning with radiopharmaceuticals in precision oncology.
+### Building the transport layer for precision oncology.
+
+MRT Pharma is a precision oncology infrastructure company developing specialized transport and workflow systems for radiopharmaceutical logistics.
+
+The company is built around MRTWay, a transport and coordination architecture designed to support the safe, automated, and traceable movement of shielding-sensitive and decay-sensitive materials across healthcare environments.
 
 Our mission is to help healthcare systems move critical therapies more efficiently between radiopharmacies, hot cells, imaging facilities, injection suites, treatment rooms, and disposal environments while reducing manual handling, improving traceability, and supporting operational efficiency.
 
 ---
 
+## What is MRTWay?
+
+MRTWay is the underlying technology and intellectual property platform behind MRT Pharma.
+
+It is being developed as a transport and workflow infrastructure architecture designed specifically for radiopharmaceutical logistics and distributed precision oncology environments.
+
+By combining automated transport, real-time tracking, cleanroom compatibility, and intelligent workflow coordination, MRTWay seeks to address operational bottlenecks associated with the movement of high-value, time-sensitive medical materials.
+
+---
+
 ## Vision
 
-We are creating an invisible infrastructure layer that connects every step of the radiopharmaceutical journey—from production and preparation to imaging, treatment, and safe disposal.
+Precision oncology is becoming increasingly distributed. Radiopharmaceutical production, imaging, treatment, and disposal activities are often separated across multiple departments, buildings, and healthcare campuses.
 
-By combining automated transport, real-time tracking, cleanroom compatibility, and intelligent workflow orchestration, MRTWay seeks to address critical bottlenecks in modern distributed healthcare networks.
+MRT Pharma is developing infrastructure intended to connect these workflows through safe, traceable, and coordinated transport systems.
 
-Our long-term vision is to establish a new category of precision oncology infrastructure capable of supporting the future growth of radiopharmaceutical medicine, theranostics, and advanced healthcare delivery systems.
+Our long-term vision is to establish a new category of precision oncology infrastructure that supports the continued growth of radiopharmaceutical medicine, theranostics, and advanced cancer care delivery.
 
 ---
 
 ## Why Now?
 
-Precision oncology, theranostics, and radiopharmaceutical production capacity are growing rapidly, while the infrastructure connecting production, imaging, treatment, and disposal workflows has remained largely unchanged.
+Precision oncology, theranostics, and radiopharmaceutical production capacity are growing rapidly, while the infrastructure supporting material movement and workflow coordination has remained largely unchanged.
 
-Existing manual, pneumatic, and conventional logistics systems were not designed specifically for shielding-sensitive and decay-sensitive radiopharmaceutical payloads. As healthcare delivery becomes increasingly distributed across larger campuses and regional networks, the need for specialized infrastructure continues to grow.
+Existing manual, pneumatic, and conventional logistics systems were not designed specifically for shielding-sensitive and decay-sensitive radiopharmaceutical payloads. As healthcare delivery expands across larger campuses and distributed treatment networks, the need for specialized infrastructure continues to grow.
 
-MRTWay explores infrastructure designed to address this emerging bottleneck by helping connect radiopharmaceutical workflows through safe, traceable, and coordinated transport systems.
+MRT Pharma is being developed to address this emerging gap through infrastructure designed specifically for radiopharmaceutical workflows.
 
 ---
 
 ## Technology Approach
 
-MRTWay is being developed as a purpose-built transport and workflow infrastructure platform designed specifically for radiopharmaceutical logistics and precision oncology environments.
+The MRTWay platform focuses on five core areas:
 
-Key areas of focus include:
-
-- Automated Transport Infrastructure – Controlled transport pathways designed for the movement of shielding-sensitive and decay-sensitive payloads.
-- Intelligent Workflow Coordination – Real-time tracking, routing, monitoring, and operational visibility.
-- Cleanroom & Regulatory Compatibility – Designed to support controlled environments, contamination management, electromagnetic compatibility (EMC), and nuclear medicine operational requirements.
-- Distributed Infrastructure Networks – Connecting production, imaging, treatment, and disposal workflows across healthcare campuses.
-- Scalable Platform Architecture – Designed with future extensibility for broader controlled-environment logistics applications.
+- Automated Transport Infrastructure
+- Intelligent Workflow Coordination
+- Cleanroom & Regulatory Compatibility
+- Distributed Infrastructure Networks
+- Scalable Platform Architecture
 
 The architecture draws upon industrial automation, systems engineering, infrastructure design, healthcare operations, and workflow optimization principles.
+
+Key objectives include improving traceability, reducing manual handling, supporting contamination control, and enabling more efficient coordination of radiopharmaceutical workflows.
 
 Proprietary implementation details, patent-sensitive information, and detailed system architectures are intentionally not disclosed publicly.
 
@@ -51,9 +64,9 @@ Proprietary implementation details, patent-sensitive information, and detailed s
 
 ## Current Stage
 
-MRTWay is currently in the concept development, intellectual property, stakeholder engagement, research, and venture-building stage, with MRT Pharma serving as the flagship application.
+MRT Pharma is currently in the concept development, intellectual property, stakeholder engagement, research, and venture-building stage.
 
-### Active Work Streams
+Active work includes:
 
 - System architecture development
 - Technical feasibility analysis
@@ -76,23 +89,16 @@ Engineer, entrepreneur, and technology innovator with experience spanning indust
 - M.S. Data Analytics — Touro University, New York
 - M.S. Engineering Management (in progress) — Florida Institute of Technology
 
-Previously founded Edekee Inc. (Craave.ai), raising approximately $300,000 in startup funding. Inventor and systems architect behind the MRTWay platform.
+Previously founded Edekee Inc. (Craave.ai), raising approximately $300,000 in startup funding. Inventor and systems architect behind MRTWay.
 
 ### Dr. Ejiro E. Akpovwovwo
 Co-Founder
 
 Doctor of Pharmacy with more than 15 years of healthcare, pharmaceutical, and healthcare operations experience.
 
-Background includes:
+His background includes clinical pharmacy, pharmacovigilance, medication safety, healthcare operations, regulatory compliance, stakeholder engagement, and business analytics.
 
-- Clinical Pharmacy
-- Pharmacovigilance
-- Medication Safety
-- Healthcare Operations
-- Regulatory Compliance
-- Stakeholder Engagement
-
-Experience includes work within the UK healthcare system, including King's College Hospital. Holds an MBA in Business Analytics from Hult International Business School.
+He has worked within the UK healthcare system, including King's College Hospital, and holds an MBA in Business Analytics from Hult International Business School.
 
 Dr. Akpovwovwo provides healthcare domain expertise supporting MRT Pharma's work in radiopharmaceutical logistics and precision oncology infrastructure.
 
@@ -104,7 +110,7 @@ Paul and Ejiro have known each other for more than 30 years. Their combined back
 
 ## Founder Introduction
 
-🎥 Founder Video (1 Minute)
+🎥 Founder Video
 
 https://www.youtube.com/watch?v=6fKfJ7CTCvk
 
@@ -113,11 +119,13 @@ https://www.youtube.com/watch?v=6fKfJ7CTCvk
 ## Documents
 
 ### Strategic Infrastructure Brief
+
 Strategic Radiopharmaceutical Logistics Infrastructure
 
 A detailed overview of the MRT Pharma concept, radiopharmaceutical logistics challenges, infrastructure considerations, and long-term vision.
 
 ### Investor Presentation
+
 MRTWay Investor Deck
 
 Overview of the opportunity, problem, solution, market rationale, business model, roadmap, and team.
@@ -130,19 +138,12 @@ Paul Osekirere Onaodowan
 
 📧 paul@mrtway.com
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/paul-onaodowan
+🔗 https://www.linkedin.com/in/paul-onaodowan
 
 ---
 
 ## Note
 
-This repository serves as a public-facing overview of MRTWay and MRT Pharma.
+This repository serves as a public overview of MRT Pharma and the MRTWay platform.
 
-Proprietary technical details, patent-sensitive information, confidential system architectures, engineering specifications, and intellectual property disclosures have been intentionally omitted while intellectual property development activities remain ongoing.
-
----
-
-## Topics
-
-precision-oncology • radiopharmaceuticals • theranostics • nuclear-medicine • healthcare-logistics • medical-infrastructure • healthtech • medtech • deeptech • biomedical-engineering • healthcare-innovation • precision-medicine • automated-logistics • workflow-automation
+Proprietary technical details, patent-sensitive information, engineering specifications, and confidential system architectures have been intentionally omitted while intellectual property development activities remain ongoing.
