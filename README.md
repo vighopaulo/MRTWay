@@ -1,4 +1,5 @@
 ![MRTWay Vision](image.png)
+*Building the infrastructure layer that connects the future of radiopharmaceutical medicine and precision oncology.*
 
 MRTWay Vision
 
